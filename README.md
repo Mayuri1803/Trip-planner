@@ -6,7 +6,7 @@ The input data given by the users are the following:
 - Date of Journey
 - Origin location
 - Destination location
-- 
+  
 From the given input data, I formulate the most efficient itinerary, which includes most important 
 places to visit keeping in mind the constraints like time availability, date of journey, number of 
 people. To implement this project, the following data structures are be used.
